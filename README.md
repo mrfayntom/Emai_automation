@@ -1,6 +1,6 @@
-![Project Banner](https://i.pinimg.com/736x/b5/9c/f5/b59cf5fc60ba1cbc4008830fb309ef3e.jpg)
-
 # Email Automation Project Documentation
+
+![Project Banner](https://i.pinimg.com/736x/b5/9c/f5/b59cf5fc60ba1cbc4008830fb309ef3e.jpg)
 
 ## Overview
 This project automates email monitoring by integrating machine learning and Telegram bot functionality. It classifies incoming emails as **important** or **non-important**. 
