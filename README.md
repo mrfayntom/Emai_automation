@@ -65,7 +65,7 @@ Trains a classification model to distinguish between important and non-important
 - Reads labeled data.
 - Vectorizes text (e.g., using **TF-IDF**).
 - Splits dataset into train/test.
-- Trains a suitable model (e.g., **Logistic Regression**, **SVM**).
+- Trains a suitable model 
 - Saves the trained model to disk.
 
 ---
